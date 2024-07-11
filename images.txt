@@ -3,7 +3,4 @@ linuxserver/transmission
 jxxghp/moviepilot
 easychen/cookiecloud
 portainer/portainer-ce
-altran1502/immich-server
-altran1502/immich-machine-learning
-redis:6.2-alpine
-tensorchord/pgvecto-rs:pg14-v0.2.0
+myservers/my_servers
